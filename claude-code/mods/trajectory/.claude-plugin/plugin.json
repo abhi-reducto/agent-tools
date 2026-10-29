@@ -1,0 +1,6 @@
+{
+  "name": "trajectory",
+  "version": "0.1.0",
+  "description": "/trajectory: a concise overview of the session so far, with phases, key decisions, open questions and loose ends, in a side pane",
+  "types": "./types/index.d.ts"
+}
